@@ -11,7 +11,7 @@ function Contacts() {
       <div className="contact__container bd-grid">
         <div className="contact__info">
           <h3 className="contact__subtitle">
-            <a href="# " className="home__social-link">
+            <a href="mailto:yukselcansimsek@gmail.com" className="home__social-link">
               <i className="bx bx-envelope"></i>
             </a>
             E-mail
@@ -21,7 +21,7 @@ function Contacts() {
 
         <div className="contact__info">
           <h3 className="contact__subtitle">
-            <a href="# " className="home__social-link">
+            <a href="https://www.linkedin.com/in/yuksi-root/" className="home__social-link">
               <i className="bx bxl-linkedin"></i>
             </a>
             Linkedin

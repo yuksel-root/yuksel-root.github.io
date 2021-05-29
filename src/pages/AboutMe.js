@@ -14,7 +14,7 @@ function AboutMe() {
             Hi, I'm a developer, passionate about creating and developing web
             and mobil apps.
           </p>
-          <img src="assets/img/about.png" alt="" className="about__img" />
+          
         </div>
 
         <div>

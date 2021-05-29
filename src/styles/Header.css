@@ -78,9 +78,9 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px)  {
   .nav__menu {
-    width: calc(var(--nav-width)*4);
+    width: 65%;
     left:-100%;
   }
 }
@@ -88,7 +88,7 @@
 @media screen and (min-width: 1024px) {
   body {
     margin: 0;
-    padding-left: var(--nav-width);
+    padding-left: 120px
   }
 
   .l-header {
