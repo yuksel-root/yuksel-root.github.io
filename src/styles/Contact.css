@@ -1,0 +1,19 @@
+.contact__container {
+    row-gap: 3rem;
+    margin: auto;
+  }
+  
+  .contact__info {
+    margin-bottom: var(--mb-3);
+  }
+  
+  .contact__subtitle {
+    font-size: var(--h3-font-size);
+    color: var(--first-color-dark);
+    margin-bottom: var(--mb-1);
+  }
+  
+  .contact__text {
+    display: block;
+    padding-left: 1rem;
+  }
