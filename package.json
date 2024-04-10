@@ -1,10 +1,6 @@
 {
   "name": "mypersonalwebsite",
-<<<<<<< HEAD
   "homepage": "https://yuksel-root.github.io",
-=======
-  "homepage": "https://yuksi-root.github.io",
->>>>>>> 1bcfb92849dad7ad143d7b07a2c276a874934989
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,11 +18,8 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-<<<<<<< HEAD
+    "clean": "rmdir /s /q node_modules",
     "deploy": "gh-pages -d build",
-=======
-    "deploy": "gh-pages -d build",  
->>>>>>> 1bcfb92849dad7ad143d7b07a2c276a874934989
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,11 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-=======
->>>>>>> 1bcfb92849dad7ad143d7b07a2c276a874934989
   }
 }
