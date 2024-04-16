@@ -6,6 +6,7 @@ import work2 from "../assets/work2.jpg";
 import work3 from "../assets/work3.jpg";
 import work4 from "../assets/work4.jpg";
 import work5 from "../assets/work5.jpg";
+import work6 from "../assets/work6.jpg";
 
 function Projects() {
   return (
@@ -61,12 +62,12 @@ function Projects() {
 
           <div className="works__data">
             <a
-              href="https://github.com/yuksel-root/LaboratuvarAnalizTakip"
+              href="https://github.com/yuksel-root/flutter_news_app"
               className="works__link"
             >
               <i className="bx bx-link"></i>
             </a>
-            <span className="works__title">LabAnaliz Android App</span>
+            <span className="works__title">Flutter News App</span>
           </div>
         </div>
 
@@ -81,6 +82,20 @@ function Projects() {
               <i className="bx bx-link"></i>
             </a>
             <span className="works__title">BirdGame Android App</span>
+          </div>
+        </div>
+
+        <div className="works__item">
+          <img className="works__img" src={work6} alt="" />
+
+          <div className="works__data">
+            <a
+              href="https://github.com/yuksel-root/flutter_memory_game"
+              className="works__link"
+            >
+              <i className="bx bx-link"></i>
+            </a>
+            <span className="works__title">Flutter Memory Game App</span>
           </div>
         </div>
       </div>
