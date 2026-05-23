@@ -12,7 +12,7 @@ function AboutMe() {
         <div className="about__data">
           <p className="about__description">
             Hi, I'm a developer, passionate about creating and developing web
-            and mobil apps.
+            and mobile apps.
           </p>
           
         </div>

@@ -36,7 +36,7 @@ function Contacts() {
             </a>
             Location
           </h3>
-          <span className="contact__text">Turkey - Bursa</span>
+          <span className="contact__text">Türkiye</span>
         </div>
       </div>
     </section>
